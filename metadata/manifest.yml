@@ -4,9 +4,9 @@ Display-Name: phpPgAdmin 5.0
 Description: "Web based PostgreSQL admin tool. Requires the PostgreSQL cartridge to be installed first."
 Version: 5.0
 License: GPLv2
-Vendor: Red Hat
+Vendor: Hiro Asari
 Cartridge-Version: 0.1.0
-Cartridge-Vendor: redhat
+Cartridge-Vendor: hasari
 Website: "http://www.phppgadmin.net/"
 Source-Url: https://github.com/BanzaiMan/openshift-origin-cartridge-phppgadmin.git
 Categories:
