@@ -8,6 +8,7 @@ Vendor: Red Hat
 Cartridge-Version: 0.1.0
 Cartridge-Vendor: redhat
 Website: "http://www.phppgadmin.net/"
+Source-Url: https://github.com/BanzaiMan/openshift-origin-cartridge-phppgadmin.git
 Categories:
   - embedded
 Cart-Data:
