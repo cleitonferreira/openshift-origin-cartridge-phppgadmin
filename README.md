@@ -1,3 +1,10 @@
+# NOTE
+This cartridge requires `phpPgAdmin` 5.0.x to be installed on the node on which your application is running.
+This will be installed when this cartridge is, but this is not the case with OpenShift Online as of this writing.
+
+If you are running your own installation of Origin, then I assume you know what you are doing
+and that you can make use of this cartridge.
+
 # OpenShift phpPgAdmin Cartridge
 
 The `phppgadmin` cartridge provides [phpPgAdmin](http://phppgadmin.sourceforge.net/) on OpenShift.
